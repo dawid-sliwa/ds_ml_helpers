@@ -1,6 +1,6 @@
 ## Overview
 
-Reusable python functions to streamline ml and data science tasks
+Reusable python functions to streamline ml and data science tasks currently only available for pytorch
 
 
 ## Functions
